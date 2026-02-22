@@ -1,5 +1,5 @@
 streamlit
-google-generativeai
+google-genai
 matplotlib
 numpy
 google-api-python-client
